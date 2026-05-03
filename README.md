@@ -1,1 +1,2 @@
-# demo_wscube
+# CODSOFT3
+Calculator
